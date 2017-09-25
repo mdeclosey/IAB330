@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:IAB330assignment"
+             x:Class="IAB330assignment.MainPage">
+
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness" iOS="20, 40, 20, 20" Android="20, 20, 20, 20"/>
+    </ContentPage.Padding>
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Orientation="Vertical" Spacing="0" >
+            <Button x:Name="loginBtn" Text="Login" Clicked="loginBtn_Clicked"></Button>
+            <Button x:Name="registerBtn" Text="Register" Clicked="registerBtn_Clicked"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

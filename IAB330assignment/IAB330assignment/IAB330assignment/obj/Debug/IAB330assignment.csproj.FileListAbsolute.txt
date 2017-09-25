@@ -1,0 +1,36 @@
+C:\Users\KIARA\Documents\- Uni\IAB330 - Mobile Application Development\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\bin\Debug\IAB330assignment.dll
+C:\Users\KIARA\Documents\- Uni\IAB330 - Mobile Application Development\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\bin\Debug\IAB330assignment.pdb
+C:\Users\KIARA\Documents\- Uni\IAB330 - Mobile Application Development\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\KIARA\Documents\- Uni\IAB330 - Mobile Application Development\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\KIARA\Documents\- Uni\IAB330 - Mobile Application Development\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\KIARA\Documents\- Uni\IAB330 - Mobile Application Development\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\KIARA\Documents\- Uni\IAB330 - Mobile Application Development\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\KIARA\Documents\- Uni\IAB330 - Mobile Application Development\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\KIARA\Documents\- Uni\IAB330 - Mobile Application Development\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\KIARA\Documents\- Uni\IAB330 - Mobile Application Development\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\KIARA\Documents\- Uni\IAB330 - Mobile Application Development\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.csprojResolveAssemblyReference.cache
+C:\Users\KIARA\Documents\- Uni\IAB330 - Mobile Application Development\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.csproj.CoreCompileInputs.cache
+C:\Users\KIARA\Documents\- Uni\IAB330 - Mobile Application Development\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.MainPage.xaml.g.cs
+C:\Users\KIARA\Documents\- Uni\IAB330 - Mobile Application Development\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.App.xaml.g.cs
+C:\Users\KIARA\Documents\- Uni\IAB330 - Mobile Application Development\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.LoginPage.xaml.g.cs
+C:\Users\KIARA\Documents\- Uni\IAB330 - Mobile Application Development\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.RegisterPage.xaml.g.cs
+C:\Users\KIARA\Documents\- Uni\IAB330 - Mobile Application Development\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.dll
+C:\Users\KIARA\Documents\- Uni\IAB330 - Mobile Application Development\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.pdb
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\bin\Debug\IAB330assignment.dll
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\bin\Debug\IAB330assignment.pdb
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.csprojResolveAssemblyReference.cache
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.csproj.CoreCompileInputs.cache
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.MainPage.xaml.g.cs
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.App.xaml.g.cs
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.LoginPage.xaml.g.cs
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.RegisterPage.xaml.g.cs
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.dll
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.pdb
