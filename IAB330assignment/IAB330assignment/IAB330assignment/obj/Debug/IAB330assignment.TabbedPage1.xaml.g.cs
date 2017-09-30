@@ -12,12 +12,12 @@ namespace IAB330assignment {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\KIARA\\Documents\\- Uni\\IAB330\\IAB330\\IAB330assignment\\IAB330assignment\\IA" +
-        "B330assignment\\App.xaml")]
-    public partial class App : global::Xamarin.Forms.Application {
+        "B330assignment\\TabbedPage1.xaml")]
+    public partial class TabbedPage1 : global::Xamarin.Forms.TabbedPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(App));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(TabbedPage1));
         }
     }
 }

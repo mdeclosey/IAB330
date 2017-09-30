@@ -12,12 +12,16 @@ namespace IAB330assignment {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\KIARA\\Documents\\- Uni\\IAB330\\IAB330\\IAB330assignment\\IAB330assignment\\IA" +
-        "B330assignment\\App.xaml")]
-    public partial class App : global::Xamarin.Forms.Application {
+        "B330assignment\\Recent.xaml")]
+    public partial class Recent : global::Xamarin.Forms.ContentPage {
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.ListView listRecent;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(App));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Recent));
+            listRecent = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.ListView>(this, "listRecent");
         }
     }
 }

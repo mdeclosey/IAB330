@@ -32,5 +32,12 @@ C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\I
 C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.App.xaml.g.cs
 C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.LoginPage.xaml.g.cs
 C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.RegisterPage.xaml.g.cs
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.TabbedPage1.xaml.g.cs
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.AddItem.xaml.g.cs
 C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.dll
 C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.pdb
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.MyList.xaml.g.cs
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.Recent.xaml.g.cs
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.Search.xaml.g.cs
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.Settings.xaml.g.cs
+C:\Users\KIARA\Documents\- Uni\IAB330\IAB330\IAB330assignment\IAB330assignment\IAB330assignment\obj\Debug\IAB330assignment.SpecificItem.xaml.g.cs

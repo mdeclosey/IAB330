@@ -15,7 +15,18 @@ namespace IAB330assignment
         public LoginPage()
         {
             InitializeComponent();
-            passwordEntry.IsPassword = true;
+            //logo
+            image.Source = ImageSource.FromResource("UI.images.shopping.png");
+            password.IsPassword = true;
+        }
+
+        void logUser(object sender, System.EventArgs e)
+        {
+            //THESE are the variables receiving input
+            var userValue = username.Text;
+            var passwordValue = password.Text;
+
+            throw new NotImplementedException();
         }
     }
 }

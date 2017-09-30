@@ -23,6 +23,21 @@ namespace IAB330assignment
         {
             Navigation.PushAsync(new RegisterPage());
         }
-        
+
+        private void tabsBtn_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new TabbedPage1());
+        }
+
+        private void settingsBtn_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Settings());
+        }
+
+        private void itemBtn_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new SpecificItem());
+        }
+
     }
 }

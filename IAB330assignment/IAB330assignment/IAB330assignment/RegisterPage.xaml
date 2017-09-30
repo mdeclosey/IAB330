@@ -3,8 +3,29 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="IAB330assignment.RegisterPage">
     <ContentPage.Content>
-        <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Orientation="Vertical" Spacing="0" >
-            <Label Text="Welcome to Xamarin Forms!" />
+        <StackLayout VerticalOptions = "Center" Spacing ="10" Padding="30">
+            <Image x:Name="image" Aspect="AspectFit" HorizontalOptions="Center" VerticalOptions="Center"/>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Username:"/>
+                <Entry x:Name = "username" Placeholder="Enter your username..." HorizontalOptions="FillAndExpand"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Email:"/>
+                <Entry x:Name="email" Placeholder="Enter your email..." HorizontalOptions="FillAndExpand"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text = "Password:"/>
+                <Entry x:Name="password" Placeholder="Enter your password..." HorizontalOptions="FillAndExpand"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text = "Confirm password:"/>
+                <Entry x:Name="confirmation" Placeholder="Password..." HorizontalOptions="FillAndExpand"/>
+            </StackLayout>
+
+            <Button Text="Register" Clicked="registerUser"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

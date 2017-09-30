@@ -15,6 +15,20 @@ namespace IAB330assignment
         public RegisterPage()
         {
             InitializeComponent();
+            //logo
+            image.Source = ImageSource.FromResource("UI.images.shopping.png");
+        }
+
+        //THIS IS TO REGISTER (when button pressed)
+        void registerUser(object sender, System.EventArgs e)
+        {
+            //THESE are the variables receiving input
+            var usernameValue = username.Text;
+            var emailValue = email.Text;
+            var passwordValue = password.Text;
+            var confrimation = confirmation.Text;
+
+            throw new NotImplementedException();
         }
     }
 }
